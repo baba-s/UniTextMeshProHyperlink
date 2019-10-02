@@ -13,3 +13,7 @@ TextMesh Pro でハイパーリンクを実装するスクリプト
 ```
 
 manifest.json に上記の記述を追加します  
+
+## 参考サイト様
+
+- [【Unity2018】WebGLで外部ブラウザを新規ウィンドウで開く方法](http://isemito.hatenablog.com/entry/2018/08/08/203017)  
